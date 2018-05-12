@@ -1,0 +1,31 @@
+_repo: The-Man-of-Uz-and-Other-Poems_20504
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sigourney, L. H. (Lydia Howard)
+    aliases:
+    - Sigourney, Lydia Howard Huntley
+    - Sigourney, Charles, Mrs.
+    birthdate: 1791
+    deathdate: 1865
+    gutenberg_agent_id: '9342'
+    url: http://www.gutenberg.org/2009/agents/9342
+    wikipedia: http://en.wikipedia.org/wiki/Lydia_Sigourney
+description: ''
+gutenberg_issued: '2007-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20504'
+  lccn: '55053986'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+title: The Man of Uz, and Other Poems
+url: http://www.gutenberg.org/ebooks/20504
